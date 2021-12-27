@@ -1,5 +1,5 @@
-# FIREMAN
-A small game similiar to the famous pacman game. 
+# Fireman game
+We developed a small game called fireman similiar to the popular pacman game using C. 
 Run as follows:
 gcc pac.c -lncurses
 # NOTE
