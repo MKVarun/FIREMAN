@@ -1,5 +1,5 @@
 # Fireman game
-We developed a small game called fireman similiar to the popular pacman game using C language. 
+We developed a small game called fireman similiar to the popular Pacman game using C language. 
 
 ## Usage directions
 Run as follows:\
