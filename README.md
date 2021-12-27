@@ -1,7 +1,7 @@
 # Fireman game
 We developed a small game called fireman similiar to the popular pacman game using C language. 
 
-Run as follows:
+Run as follows:\
 gcc pac.c -lncurses
 
 # NOTE
