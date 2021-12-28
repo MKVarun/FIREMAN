@@ -205,7 +205,7 @@ updatePos();
 end = clock();
 double score = ((double)(end-start))/CLOCKS_PER_SEC * 1000;
 gotoxy(60,30);
-printf("YOU SCORED:%lf",score);
+printf("YOU SCORED: %lf",score);
 }
 gotoxy(60,35);
 printf("Game Over\t Press Q to Quit");
