@@ -2,7 +2,7 @@
 We developed a small game called fireman similiar to the popular Pacman game using C language. In this game to score higher, you need to stay alive the longest, by making sure you don't collide into the walls or the moving tsunami.
 
 ## Game screenshot 
-![Image](Fireman.png)
+![Image](Fireman_game.png)
 
 ## Usage directions
 - **Run as follows:\
